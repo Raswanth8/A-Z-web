@@ -22,5 +22,4 @@ let mulbythree = mult(3)
 mulbythree(5) //logs 15
 
 // Partial application is more or less a pattern of calling a function. You can partially apply any function.
-// Currying is more about a form of the function. To be able to use currying, you have to explicitly create a 
-// new function that is a curried version of the original one.
+// Currying is more about a form of the function. To be able to use currying, you have to explicitly create a new function that is a curried version of the original one.
